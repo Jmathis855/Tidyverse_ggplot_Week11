@@ -5,7 +5,7 @@
 - As we learned last week, R is a very powerful tool for data management, analysis, and visualization. Many different types of analyses and visualizations can be done natively in R with no other packages (base R).
 - However, as datasets get larger and more complex, we sometimes need tools not available in base R to help us with our analyses and visualizations in the form of packages designed by other scientists and researchers.
 - One such group of packages that has become widely used across many disciplines is called `tidyverse`, and it consists of many interrelated packages that all share the goal of facilitating efficient, easy to read, and well organized code.
-
+CRAN - The Comprehensive R Archive Network 
  ## Installing tidyverse
 
  To install all packages associated with tidyverse, the following commands can be run in your R session.
